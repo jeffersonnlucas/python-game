@@ -1,0 +1,1 @@
+Repositório com jogo feito em python utilizando as funções basicas durante um treinamento na formação python alura. Serve como referência de fundamentos.
